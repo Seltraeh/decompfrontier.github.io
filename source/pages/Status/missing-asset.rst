@@ -1,6 +1,9 @@
 Missing assets
 =================
 
+.. role:: strike
+   :class: strike
+
 This page tracks all the graphical assets that existed in Brave Frontier that are currently not available in the assset drive.
 
 .. important::
@@ -826,23 +829,23 @@ This page tracks all the graphical assets that existed in Brave Frontier that ar
 * /content/gacha/top_banner_Water_Thoth.png
 * /content/gacha/varss.png
 * /content/_dlcbundle/layout_unit_selector_gacha.csv
-* /content/_dlcbundle/MapVillage/MapVillage_320x289.jpg
-* /content/_dlcbundle/MapVillage/MapVillage_640x384.png
-* /content/_dlcbundle/sys_barbg.png
-* /content/_dlcbundle/sys_battery_frame.png
-* /content/_dlcbundle/sys_battery_gauge.png
-* /content/_dlcbundle/sys_charge.png
-* /content/_dlcbundle/sys_nosignal.png
-* /content/_dlcbundle/sys_win_base.png
-* /content/_dlcbundle/sys_win_btn.png
-* /content/_dlcbundle/sys_win_corner_lb.png
-* /content/_dlcbundle/sys_win_corner_rb.png
-* /content/_dlcbundle/sys_win_corner_lt.png
-* /content/_dlcbundle/sys_win_corner_rt.png
-* /content/_dlcbundle/sys_win_deco_1.png
-* /content/_dlcbundle/sys_win_deco_2.png
-* /content/_dlcbundle/sys_win_line_bottom.png
-* /content/_dlcbundle/sys_win_line_left.png
-* /content/_dlcbundle/sys_win_line_top.png
-* /content/_dlcbundle/sys_win_line_right.png
+* :strike:`/content/_dlcbundle/MapVillage/MapVillage_320x289.jpg`
+* :strike:`/content/_dlcbundle/MapVillage/MapVillage_640x384.png`
+* :strike:`/content/_dlcbundle/sys_barbg.png`
+* :strike:`/content/_dlcbundle/sys_battery_frame.png`
+* :strike:`/content/_dlcbundle/sys_battery_gauge.png`
+* :strike:`/content/_dlcbundle/sys_charge.png`
+* :strike:`/content/_dlcbundle/sys_nosignal.png`
+* :strike:`/content/_dlcbundle/sys_win_base.png`
+* :strike:`/content/_dlcbundle/sys_win_btn.png`
+* :strike:`/content/_dlcbundle/sys_win_corner_lb.png`
+* :strike:`/content/_dlcbundle/sys_win_corner_rb.png`
+* :strike:`/content/_dlcbundle/sys_win_corner_lt.png`
+* :strike:`/content/_dlcbundle/sys_win_corner_rt.png`
+* :strike:`/content/_dlcbundle/sys_win_deco_1.png`
+* :strike:`/content/_dlcbundle/sys_win_deco_2.png`
+* :strike:`/content/_dlcbundle/sys_win_line_bottom.png`
+* :strike:`/content/_dlcbundle/sys_win_line_left.png`
+* :strike:`/content/_dlcbundle/sys_win_line_top.png`
+* :strike:`/content/_dlcbundle/sys_win_line_right.png`
 * /content/_dlcbundle/layout_shop_topV2.csv
